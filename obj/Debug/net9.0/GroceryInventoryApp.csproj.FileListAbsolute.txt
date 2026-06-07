@@ -1,0 +1,14 @@
+D:\Abdul Malek\system design\inventory-api\GroceryInventoryApp\bin\Debug\net9.0\GroceryInventoryApp.exe
+D:\Abdul Malek\system design\inventory-api\GroceryInventoryApp\bin\Debug\net9.0\GroceryInventoryApp.deps.json
+D:\Abdul Malek\system design\inventory-api\GroceryInventoryApp\bin\Debug\net9.0\GroceryInventoryApp.runtimeconfig.json
+D:\Abdul Malek\system design\inventory-api\GroceryInventoryApp\bin\Debug\net9.0\GroceryInventoryApp.dll
+D:\Abdul Malek\system design\inventory-api\GroceryInventoryApp\bin\Debug\net9.0\GroceryInventoryApp.pdb
+D:\Abdul Malek\system design\inventory-api\GroceryInventoryApp\obj\Debug\net9.0\GroceryInventoryApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdul Malek\system design\inventory-api\GroceryInventoryApp\obj\Debug\net9.0\GroceryInventoryApp.AssemblyInfoInputs.cache
+D:\Abdul Malek\system design\inventory-api\GroceryInventoryApp\obj\Debug\net9.0\GroceryInventoryApp.AssemblyInfo.cs
+D:\Abdul Malek\system design\inventory-api\GroceryInventoryApp\obj\Debug\net9.0\GroceryInventoryApp.csproj.CoreCompileInputs.cache
+D:\Abdul Malek\system design\inventory-api\GroceryInventoryApp\obj\Debug\net9.0\GroceryInventoryApp.dll
+D:\Abdul Malek\system design\inventory-api\GroceryInventoryApp\obj\Debug\net9.0\refint\GroceryInventoryApp.dll
+D:\Abdul Malek\system design\inventory-api\GroceryInventoryApp\obj\Debug\net9.0\GroceryInventoryApp.pdb
+D:\Abdul Malek\system design\inventory-api\GroceryInventoryApp\obj\Debug\net9.0\GroceryInventoryApp.genruntimeconfig.cache
+D:\Abdul Malek\system design\inventory-api\GroceryInventoryApp\obj\Debug\net9.0\ref\GroceryInventoryApp.dll
